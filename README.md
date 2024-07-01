@@ -1,6 +1,13 @@
 # House Of The Potters
 
-A new Flutter project.
+An app for Harry Potter fans. This app list all Harry Potter character and their information.
+Its a flutter application. The core feature of this Flutter app is to fetch data from an external API and display it in a user-friendly list format.
+
+Core functionalities:
+- Fetching Data from API
+- Parsing JSON Data
+- Displaying Data in a List
+- Handling Asynchronous Operations
 
 ## Getting Started
 
