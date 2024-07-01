@@ -1,4 +1,4 @@
-# myapp
+# House Of The Potters
 
 A new Flutter project.
 
